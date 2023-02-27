@@ -4,3 +4,5 @@ The **BeadSorted.Saliva.EPIC** data package contains publically available Illumi
 
 For the purposes of consistency and convenience to the end user, this package is designed to be structurally similar to similar packages, including the **FlowSorted.Blood.EPIC** package after which it is generally modeled.
 
+## Citation Information
+Fisher J, Bakulski K, Middleton L (2022). BeadSorted.Saliva.EPIC: Illumina EPIC data on BeadSorted child saliva cells. R package version 1.6.0.

@@ -4,5 +4,9 @@ The **BeadSorted.Saliva.EPIC** data package contains publically available Illumi
 
 For the purposes of consistency and convenience to the end user, this package is designed to be structurally similar to similar packages, including the **FlowSorted.Blood.EPIC** package after which it is generally modeled.
 
+This package can be implemented through Bioconductor with the FlowSorted.Saliva.EPIC package: https://bioconductor.org/packages/release/data/experiment/html/BeadSorted.Saliva.EPIC.html
+
 ## Citation Information
-Middleton LYM, Dou JF, Fisher J, Heiss JA, Nguyen V, Just AC, Faul JD, Ware EB, Mitchell C, Colacino JA, Bakulski KM. 2021. Saliva cell type DNA methylation reference panel for epidemiology studies in children. Epigenetics. PMID: 33588693, PMCID: PMC8865319. GSE147318
+Middleton LYM, Dou JF, Fisher J, Heiss JA, Nguyen V, Just AC, Faul JD, Ware EB, Mitchell C, Colacino JA, Bakulski KM. 2021. Saliva cell type DNA methylation reference panel for epidemiology studies in children. Epigenetics. PMID: 33588693, PMCID: PMC8865319. 
+
+Data can be accessed through the Genome Expression Omnibus: GSE147318
